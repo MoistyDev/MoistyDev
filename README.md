@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MoistyDev
-- 👀 I’m interested in learning more about Game Development and Web Services
 - 🌱 Currently attending college classes related to Computer Science and Web and Mobile app development.
 - 📫 You can reach me at moistyDev@protonmail.com
 
