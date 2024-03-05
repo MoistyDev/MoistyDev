@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MoistyDev
 - 🌱 Currently attending college classes related to Computer Science and Web and Mobile app development.
+- 💖 In love with mobile development using React Native
 - 📫 You can reach me at moistyDev@protonmail.com
 
 <!---
